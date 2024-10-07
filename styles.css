@@ -83,3 +83,19 @@ footer p {
 .cta:hover {
     background-color: #ffd633;
 }
+
+.discord {
+    margin-top: 30px;
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: #ffcc00;
+    color: #1b263b;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.discord:hover {
+    background-color: #ffd633;
+}
